@@ -114,8 +114,6 @@ https://huggingface.co/spaces/RabiaAbsar/age-gender-predictor
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 Age-Gender-Prediction-ResNet50/
 │
