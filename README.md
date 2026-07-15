@@ -114,6 +114,8 @@ https://huggingface.co/spaces/RabiaAbsar/age-gender-predictor
 
 ## Project Structure
 
+## Project Structure
+
 ```text
 Age-Gender-Prediction-ResNet50/
 │
@@ -123,12 +125,12 @@ Age-Gender-Prediction-ResNet50/
 ├── images
 │     ├── age_gender_homepage.png
 │     └── age_gender_predictor_sc.png
-├── resnet50_age_gender_final_model.keras
 ├── LICENSE
 └── .gitignore
 ```
 
----
+> **Note:** The trained `.keras` model is not included in this repository because of GitHub's file size limitations. The deployed application on Hugging Face Spaces uses the trained model for inference.
+```
 
 ## Author
 
